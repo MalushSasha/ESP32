@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLEesp32</string>
+    <string name="title_item_name">Найденные устройства:</string>
+    <string name="discoveribg">вот не тыкай. ИЩЕМ:</string>
+</resources>

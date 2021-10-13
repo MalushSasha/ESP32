@@ -1,0 +1,3 @@
+rootProject.name = "BLEesp32"
+include ':app'
+include ':mylibrary'
